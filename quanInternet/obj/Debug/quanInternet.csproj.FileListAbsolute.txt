@@ -1,0 +1,10 @@
+C:\Users\phuon\source\repos\quanInternet\quanInternet\bin\Debug\quanInternet.exe.config
+C:\Users\phuon\source\repos\quanInternet\quanInternet\bin\Debug\quanInternet.exe
+C:\Users\phuon\source\repos\quanInternet\quanInternet\bin\Debug\quanInternet.pdb
+C:\Users\phuon\source\repos\quanInternet\quanInternet\obj\Debug\quanInternet.csproj.AssemblyReference.cache
+C:\Users\phuon\source\repos\quanInternet\quanInternet\obj\Debug\quanInternet.Form1.resources
+C:\Users\phuon\source\repos\quanInternet\quanInternet\obj\Debug\quanInternet.Properties.Resources.resources
+C:\Users\phuon\source\repos\quanInternet\quanInternet\obj\Debug\quanInternet.csproj.GenerateResource.cache
+C:\Users\phuon\source\repos\quanInternet\quanInternet\obj\Debug\quanInternet.csproj.CoreCompileInputs.cache
+C:\Users\phuon\source\repos\quanInternet\quanInternet\obj\Debug\quanInternet.exe
+C:\Users\phuon\source\repos\quanInternet\quanInternet\obj\Debug\quanInternet.pdb
